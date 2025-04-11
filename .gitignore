@@ -1,0 +1,6 @@
+venv
+.env
+*.zip
+
+Data Preprocessing/packages
+Data Modeling/python
