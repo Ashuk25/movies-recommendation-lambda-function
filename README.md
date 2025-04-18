@@ -50,5 +50,8 @@ C:\Users\YourName\YourProjectName> pip install -r requirements.txt
 
 #### Find API Code on below github repository
 
-### Find UI code on below github repository
+[movies-recommendation-api](https://github.com/Ashuk25/movies-recommendation-api.git)
 
+#### Find UI code on below github repository
+
+[movies-recommendation-frontend](https://github.com/Ashuk25/movies-recommendation-frontend.git)
