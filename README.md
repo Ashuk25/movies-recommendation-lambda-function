@@ -45,8 +45,13 @@ C:\Users\YourName\YourProjectName> aws sso login --profile aws_profile_name
 #### Installation
 
 ```
-C:\Users\YourName\YourProjectName> pip install -r requirements.txt
+C:\Users\YourName\YourProjectName> python -m venv venv # Create the virtual environment
+C:\Users\YourName\YourProjectName>venv/Script/activate # activate the virtual environment
+C:\Users\YourName\YourProjectName> pip install -r requirements.txt 
+
+# Create the .env file in root directory for Bucket name and folder name.
 ```
+
 
 #### Find API Code on below github repository
 
